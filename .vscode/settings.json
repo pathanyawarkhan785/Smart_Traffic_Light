@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "stdbool.h": "c",
+        "traffic_fsm.h": "c",
+        "io_control.h": "c"
+    }
+}
